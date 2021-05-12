@@ -40,7 +40,7 @@ Correlación entre la humedad superficial (SSM) y el índice de vegetación norm
 > 
 > dia21ndvienero <- raster("C:/Users/Usuario/Documents/Análisis de Tesis en Rstudio y SAGA GIS/Variables/Vegetación/NDVI_1km_v2_2020/1_Enero_NDVI_1km_v2_2020/3 NDVI_ESPAÑA/Dia21_enero2020ndvi.tif")
 
-### DATOS de diarios (3 dias) SSM ENERO
+### DATOS de diarios (3 dias) SSM diaspromedio ENERO
 
 > dia1SSMpromerdioenero <- raster ("C:/Users/Usuario/Documents/Análisis de Tesis en Rstudio y SAGA GIS/Variables/Humedad/SSM_Bir  2020/1_Enero_SSM_Bir_2020/Imagenes correctas/DiaSSM27dic2019_1ene2020na_true_6dias.tif")
 > ![image](https://user-images.githubusercontent.com/78845785/117945982-287b9080-b30f-11eb-8a58-0c5e7ff8379c.png)
